@@ -14,7 +14,8 @@ git init .
 git add <filename>
 git add .
 git add -A
-git commit
+git commit -m
 git status
 git log
 git diff
+git show <hash_value>
